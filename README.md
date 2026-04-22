@@ -1,4 +1,4 @@
-## 👨‍💻 SOC Analyst Portfolio
+## 👨‍💻 Lamsal Cybersec SOC Analyst Portfolio
 
 I am building a hands-on SOC lab portfolio focused on:
 
@@ -18,7 +18,11 @@ I am building a hands-on SOC lab portfolio focused on:
 
 ## 🚀 Goal
 To become a job-ready SOC Analyst with strong detection and investigation skills.
+## 📂 Portfolio Repositories
 
+- 🔐 SOC Lab Portfolio (in progress)
+- 🛡️ Detection Engineering Labs (coming soon)
+- 🔍 Threat Hunting Scenarios (coming soon)
 <!--
 **Lamsals-cybersec/Lamsals-cybersec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
