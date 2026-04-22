@@ -13,14 +13,15 @@ Simulated attacker activity:
 - Password guessing (multiple failures)
 - Successful login after repeated failures
 
----
 
 ### 🔍 Log Source
 
 ```bash
 journalctl -u ssh
-## 📸 Screenshots
+```
 
+## 📸 Screenshots
 ![Brute Force Detection](day-01-authentication-analysis/1.jpeg)
 ![Log Analysis](day-01-authentication-analysis/2.jpeg)
 ![Splunk Dashboard](day-01-authentication-analysis/3.jpeg)
+
