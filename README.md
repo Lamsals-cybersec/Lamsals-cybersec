@@ -38,3 +38,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📸 Screenshots
+
+![Brute Force Detection](day-01-authentication-analysis/1.jpeg)
+![Log Analysis](day-01-authentication-analysis/2.jpeg)
+![Splunk Dashboard](day-01-authentication-analysis/3.jpeg)
