@@ -1,4 +1,5 @@
-## 👨‍💻 Lamsals Cybersec SOC Analyst Portfolio
+# 👨‍💻 Lamsals Cybersec | SOC Analyst Portfolio
+Aspiring SOC Analyst specializing in detection engineering, log analysis, and threat investigation using Splunk and Linux environments.
 
 I am building a hands-on SOC lab portfolio focused on:
 
