@@ -25,3 +25,19 @@ journalctl -u ssh
 ![Log Analysis](./2.jpeg)
 ![Splunk Dashboard](./3.jpeg)
 
+## 🔍 Key Findings
+
+- Multiple failed SSH login attempts detected (brute-force pattern)
+- Same IP repeatedly attempting authentication
+- Successful login after several failures indicates possible compromise
+
+## 🛡️ Detection Logic
+
+- Detect repeated failed logins
+- Detect success after failures
+- Track suspicious IP behavior
+
+## 🚨 MITRE ATT&CK Mapping
+
+- T1110 – Brute Force
+- T1078 – Valid Accounts
