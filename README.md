@@ -1,4 +1,4 @@
-## 👨‍💻 Lamsal Cybersec SOC Analyst Portfolio
+## 👨‍💻 Lamsals Cybersec SOC Analyst Portfolio
 
 I am building a hands-on SOC lab portfolio focused on:
 
